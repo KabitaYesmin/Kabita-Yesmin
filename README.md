@@ -16,8 +16,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KabitaYesmin &limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=KabitaYesmin &icon=5&color=3)](https://visitcount.itsvg.in)

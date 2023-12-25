@@ -1,6 +1,6 @@
 # Kabita-Yesmin
 # 💫 About Me:
-🔭 I’m currently working on  Web applications, CMS and AI tools<br>👯 I’m looking to collaborate on developing A Ecommerce Site<br>🤝 I’m looking for help with research in AI & Deep Learning <br>🌱 I’m currently learning Python, PHP, React JS and Algorithms<br>💬 Ask me about logical and  mathematical puzzle<br>⚡ Fun fact- lazy but  a quick learner
+🔭 I’m currently working on  Web applications, CMS and AI tools<br>👯 I’m looking to collaborate on developing an  Ecommerce Site<br>🤝 I’m looking for help with research in AI & Deep Learning <br>🌱 I’m currently learning Python, PHP, React JS and Algorithms<br>💬 Ask me about logical and  mathematical puzzle<br>⚡ Fun fact- lazy but  a quick learner
 
 
 ## 🌐 Socials:
